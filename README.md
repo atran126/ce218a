@@ -1,0 +1,1 @@
+Project to compute NO2 photolysis rate coeﬃcients for zenith angles in the table of actinic fluxes. Parses data from multiple sources to calculate the NO2 photolysis rate coefficient as a function of the cosine of the zenith angle and subsequently predict the rate coefficient at various times of day. 
